@@ -59,3 +59,6 @@ Future Improvements
 Add more advanced models
 Improve feature engineering
 Deploy as a web app
+
+
+Live Demo: https://marvel-revenue-analysis-jowrwdinsup3vjvzkhamrx.streamlit.app
